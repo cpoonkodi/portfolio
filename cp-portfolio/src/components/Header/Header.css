@@ -1,0 +1,27 @@
+.header nav{
+    width:100%;
+   /*position:sticky !important; */
+   position:fixed !important;
+    left:0;
+    top:0;
+    box-shadow: 0px 5px 8px rgba(0,0,0,0.5);
+    z-index:10;
+}
+
+.header navbar-brand{
+    font-weight: 600;
+}
+
+.header .nav-link{
+    color:white !important;
+}
+
+.header .nav-link:hover{
+    border-bottom:1px solid white;
+}
+
+.header .navbar img{
+    width:40%;
+    height:40%;
+    clip-path: circle(50%);
+}

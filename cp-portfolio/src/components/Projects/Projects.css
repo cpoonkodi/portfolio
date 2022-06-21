@@ -1,0 +1,12 @@
+#projects{
+    padding-top: 5%;
+}
+
+.card{
+    margin-top: 15%;
+}
+
+.card:hover{
+    box-shadow: 8px 8px 15px rgba(14,143,171,.4);
+    transition: .2s;
+}

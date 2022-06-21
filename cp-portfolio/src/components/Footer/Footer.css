@@ -1,0 +1,24 @@
+
+   #footer nav{
+        width:100%;
+        left:0;
+        bottom:0;
+        box-shadow: 0px 5px 8px rgba(0,0,0,0.5);
+        z-index:10;
+    }
+    
+    #footer navbar-brand{
+        font-weight: 600;
+    }
+    
+    #footer .nav-link{
+        color:white !important;
+    }
+    
+    #footer .nav-link:hover{
+        border-bottom:1px solid white;
+    }
+    
+    #footer .navbar img{
+        clip-path: circle(50%);
+    }

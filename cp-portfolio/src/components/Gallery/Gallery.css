@@ -1,0 +1,47 @@
+#gallery{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding:3%;
+margin-top: -10%;
+margin-bottom: -5%;
+}
+
+.carousel{
+    width:60%;
+    height:60vh;
+   background:linear-gradient(75deg,skyblue,#0E8FAB);
+   /* background-color: rgb(52, 62, 52);*/
+    box-shadow: 10px 20px 10px rgba(0,0,0,.4);
+}
+
+
+.carousel .carousel-inner{
+    left:20%;
+    top:5%;
+}
+
+.carousel h2{
+    color:white;
+    margin-top: 5px;
+}
+
+
+.carousel img{
+    width:60%;
+    height:40vh;
+    object-fit: cover;
+}
+
+@media screen and (max-width:576px){
+    .carousel{
+        width:90%;
+        height:40vh;
+        box-shadow: 10px 20px 10px rgba(0,0,0,.4);
+    }
+    .carousel img{
+        width:60%;
+        height:30vh;
+        object-fit: cover;
+    }
+}
