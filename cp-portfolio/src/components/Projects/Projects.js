@@ -35,7 +35,7 @@ function Projects() {
                 <div class="card-body">
                   <p>
                     It displays list of countries in the world. We can list the countries by continent wise. We can search the country by country name.
-    We can see the  capital city, population, flag, area for a given country. Also This site is made to resemble an E-commerce website. The countries can be added to the cart, listed in the cart and removed from the cart.                    nostrum, reprehenderit exercitationem mollitia laborum. Quisble a E-commerce 
+    We can see the  capital city, population, flag, area for a given country. Also This site is made to resemble an E-commerce website. 
                   </p>
                   <button class="btn btn-primary px-5">View</button>
                 </div>
