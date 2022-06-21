@@ -19,7 +19,7 @@ function Projects() {
                   <p>
                     In this weather report users can get the weather information for a given city. The weather information is shown beautifully in images. Weather information is received using accuweather API. 
                   </p>
-                  <a class="btn btn-primary px-5" href="https://poonkodi-portfolio.netlify.app/">View</a>
+                  <a class="btn btn-primary px-5" href="https://cpoonkodi-weatherapi.netlify.app">View</a>
                 </div>
               </div>
             </div>
