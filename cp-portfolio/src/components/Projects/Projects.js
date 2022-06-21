@@ -17,10 +17,7 @@ function Projects() {
                 </div>
                 <div class="card-body">
                   <p>
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                    Soluta ad, quas reiciendis aut unde ullam illum rerum
-                    nostrum, reprehenderit exercitationem mollitia laborum. Quis
-                    esse, laborum nostrum dolor quam praesentium accusamus?
+                    In this weather report users can get the weather information for a given city. The weather information is shown beautifully in images. Weather information is received using accuweather API. 
                   </p>
                   <button class="btn btn-primary px-5">View</button>
                 </div>
@@ -30,17 +27,15 @@ function Projects() {
             <div class="col">
               <div class="card">
                 <div class="card-header">
-                  <h3>Portfolio</h3>
+                  <h3>Countries</h3>
                   <p>
-                    <span class="text-muted">HTML, CSS</span>
+                    <span class="text-muted">React</span>
                   </p>
                 </div>
                 <div class="card-body">
                   <p>
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                    Soluta ad, quas reiciendis aut unde ullam illum rerum
-                    nostrum, reprehenderit exercitationem mollitia laborum. Quis
-                    esse, laborum nostrum dolor quam praesentium accusamus?
+                    It displays list of countries in the world. We can list the countries by continent wise. We can search the country by country name.
+    We can see the  capital city, population, flag, area for a given country. Also This site is made to resemble an E-commerce website. The countries can be added to the cart, listed in the cart and removed from the cart.                    nostrum, reprehenderit exercitationem mollitia laborum. Quisble a E-commerce 
                   </p>
                   <button class="btn btn-primary px-5">View</button>
                 </div>
@@ -50,17 +45,14 @@ function Projects() {
             <div class="col">
               <div class="card">
                 <div class="card-header">
-                  <h3>Replicate Rens original</h3>
+                  <h3>Online Library Management System</h3>
                   <p>
-                    <span class="text-muted">Javascript</span>
+                    <span class="text-muted">Reactjs, RestAPI, Expressjs, MongoDB</span>
                   </p>
                 </div>
                 <div class="card-body">
                   <p>
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                    Soluta ad, quas reiciendis aut unde ullam illum rerum
-                    nostrum, reprehenderit exercitationem mollitia laborum. Quis
-                    esse, laborum nostrum dolor quam praesentium accusamus?
+                    This displays list of all books in the libary. The user can search the book(s) by title, author, status and categories. The user can lend the book from library and return the book to library.
                   </p>
                   <button class="btn btn-primary px-5">View</button>
                 </div>
