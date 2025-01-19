@@ -9,6 +9,7 @@ function Skills() {
         <div class="container">
           <div class="row p-lg-3 p-0 mb-lg-3 mb-0">
             <div class="col-lg-6 col-12 pt-lg-0 pt-3">
+              <li> HTML </li>
               <label>HTML</label>
               <ProgressBar now={80} label={`${80}%`} />
             </div>
