@@ -14,13 +14,13 @@ function Skills() {
         <h1 class="text-center">My Skills</h1>
         <div class="container">
           <div class="row p-lg-3 p-0 mb-lg-3 mb-0">
-            <div class="col-lg-6 col-12 pt-lg-0 pt-3">
+            <div class="col-lg-4 col-12 pt-lg-0 pt-3">
               <img src={html} alt="HTML logo" />
             </div>
-            <div class="col-lg-6 col-12 pt-lg-0 pt-3">
+            <div class="col-lg-4 col-12 pt-lg-0 pt-3">
               <img src={css} alt="CSS logo" />
             </div>
-            <div class="col-lg-6 col-12 pt-lg-0 pt-3">
+            <div class="col-lg-4 col-12 pt-lg-0 pt-3">
               <img src={js} alt="Javascript logo" />
             </div>
           </div>
