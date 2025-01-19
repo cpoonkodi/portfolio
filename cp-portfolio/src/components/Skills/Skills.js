@@ -20,6 +20,9 @@ function Skills() {
             <div class="col-lg-6 col-12 pt-lg-0 pt-3">
               <img src={css} alt="CSS logo" />
             </div>
+            <div class="col-lg-6 col-12 pt-lg-0 pt-3">
+              <img src={js} alt="Javascript logo" />
+            </div>
           </div>
         </div>
 
