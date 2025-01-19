@@ -1,6 +1,12 @@
 import "./Skills.css";
 import { ProgressBar } from "react-bootstrap";
 
+import cpp from "../../assets/c++.jpeg";
+import html from "../../assets/html.png";
+import css from "../../assets/css.jpeg";
+import js from "../../assets/js.png";
+import react from "../../assets/react.jpeg";
+
 function Skills() {
   return (
     <div>
