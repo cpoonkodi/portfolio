@@ -54,7 +54,7 @@ function Projects() {
                   <p>
                     This displays list of all books in the libary. The user can search the book(s) by title, author, status and categories. The user can lend the book from library and return the book to library.
                   </p>
-                  <button class="btn btn-primary px-5">View</button>
+                  <button class="btn btn-primary px-5" href="https://cp-library-management.netlify.app/">View</button>
                 </div>
               </div>
             </div>
